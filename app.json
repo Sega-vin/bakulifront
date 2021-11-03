@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Bakuli",
+    "slug": "Bakuli",
+    "splash": {
+      "backgroundColor": "#F5F2EB",
+      "image": "./assets/splashIcon.png",
+      "resizeMode": "cover"
+    },
+    "ios": {
+      "bundleIdentifier": "com.segavin.Bakuli"
+    }
+  }
+}
